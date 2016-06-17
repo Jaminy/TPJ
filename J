@@ -1,0 +1,18 @@
+Theme:Farmers
+
+Overview
+The project’s main aim is to build an app for farmers compatible with maximum number of android versions.the app shall feature weather updates,government scheme updates,getting soil reports ,market price updates.the app shall be able to have a query system where farmers can get their doubts cleared by professionals anytime.the app should have a minimalistic design yet effective one.irrigation via smartphone where a farmer can control his irrigation systems from a phone can be done instead of driving to each field.Moisture sensors in the ground are able to communicate information about the level of moisture present at certain depth of soil. This gives more precise control of water and other inputs like fertilizer that are applied by irrigation pivot.GPS mapping for an input to the field using variable rate technology which helps farmer in accessing  the need I.e where they need to put more fertilizer or less,according to the requirement of soil.GPS enables services are also helping in field documentation about yield,moisture,amps for field drainage etc.
+Goals
+Develop the feature of weather updates
+Develop a chat query system
+develop update systems
+Get the necessary tie-ups
+Developing proper irrigation system for better water management .
+Educating farmers and hence modernize agricultural schemes and techniques.
+Specifications
+Weather updates
+The weather update system should be accurate,timely and easily understandable.we might have to get the information from other accurate sources.
+Government scheme updates and others too
+All the updates should be timely,accurate and simple to understand.for the same,we have to give the information in different languages though initially we work on english.
+Query system
+Query system should have features of easily taking pictures and recording audio.It must also have easy accessibility to agricultural professionals 24/7 like  linkedln to have good support to the farmers and can showcase their problems and hence get efficient solutions.
