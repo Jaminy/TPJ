@@ -20,6 +20,7 @@ develop update systems
 Get the necessary tie-ups
 Developing proper irrigation system for better water management .
 Educating farmers and hence modernize agricultural schemes and techniques.
+
 Specifications
 Weather updates
 The weather update system should be accurate,timely and easily understandable.we might have to get the information from other accurate sources.
