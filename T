@@ -1,0 +1,27 @@
+WUEL
+
+Goals
+Converting the waste material to fuel.
+Then using this fuel to produce electricity which can be used to treat waste water using bio-technology.
+Problems:-
+1.Lack of expertise in the rural areas, specially of northern and eastern states of india where sugarcane is cultivated on a large scale, to use the waste generated after harvesting is not utilised properly.
+2.Problems due to sewage:-
+*Pollution of groundwater resources by sewage.
+*Non-availability of any civil drainage system.
+*Side-effects of treating sewage by deploying chemicals.
+
+Solutions:-
+An opportunity is provided for employing an eco-friendly concept called as Soil Biotechnology (SBT). The SBT involves a combination of physical and biological process for processing of waste water and it derives its fundamental principle from the functioning of a terrestrial ecosystem. The process by design integrates with the natural biogeochemical cycles of nature and hence proves to be most effective.
+The plant is capable of treating about 30KL of sewage water produced every day at the village, in a chemical free and less energy intensive way. 
+The Process Soil Bio Technology :
+The SBT system consists of an impervious containment and incorporates soil, formulated granular filter media, select culture of macro organisms such as earthworms and plants. Combined grey and black water from GEV cottages are collected and transported via underground sewage network to a central collection point.
+ Primary treatment unit: The physical separation is accomplished in primary treatment unit consisting of Equalization tank, perforated screen and gravity settling tank. 
+The Secondary treatment: is combination of physio-chemical and biological processes in an engineered ecosystem. In this unit waste water is processed in an ecosystem consisting of soil, bacterial culture and geophagus earthworm, mineral additives and select plants. Formulated natural mineral additives and biological cultures are also included in the process in order to renovate the wastewater to the desired quality. The process by design integrates with the natural bio-geochemical cycles of nature. Purification takes place by adsorption, filtration and biological reaction. The process operates in aerobic mode; thus eliminating possibility of foul odour. The processed water can be reused in gardening, agriculture and support marine life. The capacity of the SBT system is 30 KLD and operates in an 8hr/day cycle.
+
+
+ENERGY POTENTIAL OF SUGARCANE
+Sugarcane is one of the most promising agricultural sources of biomass energy in the world. It is the most appropriate agricultural energy crop in most sugarcane producing countries due to its resistance to cyclonic winds, drought, pests and diseases, and its geographically widespread cultivation. Due to its high energy-to-volume ratio, it is considered one of nature’s most effective storage devices for solar energy and the most economically significant energy crop. The climatic and physiological factors that limit its cultivation to tropical and sub-tropical regions have resulted in its concentration in developing countries, and this, in turn, gives these countries a particular role in the world’s transition to sustainable use of natural resources.
+According to the International Sugar Organization (ISO), Sugarcane is a highly efficient converter of solar energy, and has the highest energy-to-volume ratio among energy crops. Indeed, it gives the highest annual yield of biomass of all species. Roughly, 1 ton of Sugarcane biomass-based on Bagasse, foliage and ethanol output – has an energy content equivalent to one barrel of crude oil.   Sugarcane produces mainly two types of biomass, Cane Trash and Bagasse. Cane Trash is the field residue remaining after harvesting the Cane stalk and Bagasse is the milling by-product which remains after extracting sugar from the stalk. The potential energy value of these residues has traditionally been ignored by policy-makers and masses in developing countries. However, with rising fossil fuel prices and dwindling firewood supplies, this material is increasingly viewed as a valuable renewable energy resource.
+Sugar mills have been using Bagasse to generate steam and electricity for internal plant requirements while Cane Trash remains underutilized to a great extent. Cane Trash and Bagasse are produced during the harvesting and milling process of Sugarcane which normally lasts 6 to 7 months.
+Around the world, a portion of the Cane Trash is collected for sale to feed mills, while freshly cut green tops are sometimes collected for farm animals. In most cases, however, the residues are burned or left in the fields to decompose. Cane Trash, consisting of Sugarcane tops and leaves can potentially be converted into around 1kWh/kg, but is mostly burned in the field due to its bulkiness and its related high cost for collection/transportation.
+On the other hand, Bagasse has been traditionally used as a fuel in the Sugar mill itself, to produce steam for the process and electricity for its own use. In general, for every ton of Sugarcane processed in the mill, around 190 kg Bagasse is produced. Low pressure boilers and low efficiency steam turbines are commonly used in developing countries. It would be a good business proposition to upgrade the present cogeneration systems to highly efficient, high pressure systems with higher capacities to ensure utilization of surplus Bagasse.
