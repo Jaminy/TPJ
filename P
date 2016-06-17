@@ -1,0 +1,15 @@
+Theme: Disabled people
+
+Overview
+Physically handicapped people face  a number of problems in their daily life. From a source it is specified that they very often have difficulties rising from bed, getting into their chair, dressing below the waist, moving from chair to toilet and back (and wiping themselves before returning), reaching for any items on or above standard-height vanities and kitchen cabinets and above centerline in refrigerators, finding and using common furniture such as couches and recliners, getting through house doors (especially closing doors behind them), getting from door to parking lot over curbs, getting from chair to vehicle (sometimes riding in their own chair in a specially-equipped van), driving, exiting their vehicle (usually but not always made easier by a rear-exit ramp), getting from parking lot into many institutions or places of business over curbs and up steps and over thresholds, reaching over standard-height counters, reaching higher grocery-store shelves and cooler cases, fueling their vehicles at self-serve stations, getting around in narrow business aisles (especially when "normally-abled" people have parked their shopping carts in the middle of the aisle and are jabbering to someone on a cellphone), traveling by any form of mass transit (bus, train, airplane), passing through metal detectors, and traversing any sort of staircases or (even short) vertical blockades (curbs, steps, et al) in general, using public restrooms, eating in bench-only or counter-only diners, using any sort of conventional weighing scales, traveling on any unpaved surface (sand, gravel, grass, dirt, mud, etc).
+Hence our project mainly concentrates on developing a device which aims to solve all their problems to an extent.
+
+Specifications
+A bot which is capable of performing image processing and which can be controlled wirelessly. Wireless connectivity is important since it will make it more user friendly (by controlling using an app) and one can easily control sitting anywhere across the globe.
+This bot will be embedded with basic sensors such as pir motion sensor,ir, ultrasonic, gas sensor, camera, servo motor and others.
+
+Milestones
+Identifying the core problem in the difficulties faced by them
+Building a prototype for each activity
+Combining them under the same platform to reduce the cost
+The system is meant to reduce their hardships and hence care should be taken in this case.
