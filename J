@@ -1,8 +1,19 @@
 Theme:Farmers
 
 Overview
-The project’s main aim is to build an app for farmers compatible with maximum number of android versions.the app shall feature weather updates,government scheme updates,getting soil reports ,market price updates.the app shall be able to have a query system where farmers can get their doubts cleared by professionals anytime.the app should have a minimalistic design yet effective one.irrigation via smartphone where a farmer can control his irrigation systems from a phone can be done instead of driving to each field.Moisture sensors in the ground are able to communicate information about the level of moisture present at certain depth of soil. This gives more precise control of water and other inputs like fertilizer that are applied by irrigation pivot.GPS mapping for an input to the field using variable rate technology which helps farmer in accessing  the need I.e where they need to put more fertilizer or less,according to the requirement of soil.GPS enables services are also helping in field documentation about yield,moisture,amps for field drainage etc.
+The project’s main aim is to build an app for farmers compatible with maximum number of android versions.
+the app shall feature weather updates,government scheme updates,getting soil reports ,market price updates.
+the app shall be able to have a query system where farmers can get their doubts cleared by professionals anytime.
+the app should have a minimalistic design yet effective one.irrigation via smartphone where a farmer can control
+his irrigation systems from a phone can be done instead of driving to each field.Moisture sensors in the ground 
+are able to communicate information about the level of moisture present at certain depth of soil. This gives more
+precise control of water and other inputs like fertilizer that are applied by irrigation pivot.GPS mapping for an
+input to the field using variable rate technology which helps farmer in accessing  the need I.e where they need to
+put more fertilizer or less,according to the requirement of soil.GPS enables services are also helping in field 
+documentation about yield,moisture,amps for field drainage etc.
+
 Goals
+
 Develop the feature of weather updates
 Develop a chat query system
 develop update systems
